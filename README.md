@@ -1,3 +1,4 @@
+This project use a server, in the MS learn(url: https://learn.microsoft.com/zh-cn/training/modules/consume-rest-services-maui/), use Azure.
 
 # Contributing
 
